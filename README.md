@@ -2,7 +2,8 @@
 
 [Självstudier i eget dokument](https://github.com/Java-Fullstack-FJAX26/Vecka-7-Git/blob/main/Sjalvstudier_vecka7_Git)
 
-Workshop 13 - Grunder Git finns i eget dokument här
+[Workshop 13 - Grunder Git finns i eget dokument](https://github.com/Java-Fullstack-FJAX26/Vecka-7-Git/blob/main/Workshop_13_Git_Verkstad.md)
+
 Workshop 14 - Fortsättning Git samt övning i refaktorering och code review här
 
 [Individuella övningar på grundnivå för dig som ej har jobbat i git]([https://github.com/Java-Fullstack-FJAX26/Vecka-7-Git/tree/%C3%B6vningar](https://github.com/Java-Fullstack-FJAX26/Vecka-7-Git/tree/ovningar))
