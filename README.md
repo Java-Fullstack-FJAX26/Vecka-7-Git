@@ -5,6 +5,6 @@ Teoriöversikt
 Workshop 13 - Grunder Git finns i eget dokument här
 Workshop 14 - Fortsättning Git samt övning i refaktorering och code review här
 
-[Individuella övningar på grundnivå för dig som ej har jobbat i git[(https://github.com/Java-Fullstack-FJAX26/Vecka-7-Git/tree/%C3%B6vningar)
+[Individuella övningar på grundnivå för dig som ej har jobbat i git]([https://github.com/Java-Fullstack-FJAX26/Vecka-7-Git/tree/%C3%B6vningar](https://github.com/Java-Fullstack-FJAX26/Vecka-7-Git/tree/ovningar))
 
 
