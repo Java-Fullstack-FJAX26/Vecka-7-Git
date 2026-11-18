@@ -1,3 +1,10 @@
 ## Översikt över kursvecka 7
-Självstudier i eget dokument
-Workshop 13 och 14 likaså
+Teoriöversikt
+[Självstudier i eget dokument](https://github.com/Java-Fullstack-FJAX26/Vecka-7-Git/blob/main/Sjalvstudier_vecka7_Git)
+
+Workshop 13 - Grunder Git finns i eget dokument här
+Workshop 14 - Fortsättning Git samt övning i refaktorering och code review här
+
+Individuella övningar
+
+
