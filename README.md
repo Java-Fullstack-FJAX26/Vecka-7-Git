@@ -4,8 +4,9 @@
 
 [Workshop 13 - Grunder Git finns i eget dokument](https://github.com/Java-Fullstack-FJAX26/Vecka-7-Git/blob/main/Workshop_13_Git_Verkstad.md)
 
-Workshop 14 - Fortsättning Git samt övning i refaktorering och code review här
+[Workshop 14 - Fortsättning Git samt övning i refaktorering och code review](https://github.com/Java-Fullstack-FJAX26/Vecka-7-Git/blob/main/Workshop_14_Git_Verkstad.md)
 
+De individuella övningarna i egen branch nedan, de är till för dig som inte jobbat med git innan utbildningen och bör göras innan torsdag 26/11.
 [Individuella övningar på grundnivå för dig som ej har jobbat i git]([https://github.com/Java-Fullstack-FJAX26/Vecka-7-Git/tree/%C3%B6vningar](https://github.com/Java-Fullstack-FJAX26/Vecka-7-Git/tree/ovningar))
 
 # Teorigenomgång – Vecka 7: Git, GitHub & Teamarbete
