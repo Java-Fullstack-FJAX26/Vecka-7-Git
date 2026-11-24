@@ -10,7 +10,7 @@ Dokumentet inleds i **Del 1** med ett komplett index över alla tidigare genomf�
 
 ---
 
-## 📋 Del 1: Index över alla tidigare Stories, Features & Tasks (v.1 – v.6)
+##  Del 1: Index över alla tidigare Stories, Features & Tasks (v.1 – v.6)
 
 ### 🔹 Story A1: Som en administratör vill jag kunna lägga till nya ledare...
 * **Feature A1.1 – Hantera ledare** (Task A1.1.1, Task A1.1.2, Task A1.1.3)
@@ -76,13 +76,14 @@ Dokumentet inleds i **Del 1** med ett komplett index över alla tidigare genomf�
 
 ---
 
-## 🚀 Del 2: Kundbeställd Refaktorering & Kvalitetshöjning – Boilerroom v.7
+##  Del 2: Kundbeställd Refaktorering & Kvalitetshöjning – Boilerroom v.7
 
 *I Boilerroom v.7 har kunden beställt tre övergripande refaktoreringsfeatures under en samlad kvalitetssatsning. Inga nya funktionsfeatures läggs till. Teamen har full frihet att identifiera brister i sin kodbas och självständigt bryta ned dessa tre features till tasks i sin Kanban-tavla.*
 
 ---
 
-### 🏛️ Story R1 (Refaktoreringsstory): Som beställare vill jag minska den tekniska skulden och stärka systemets underhållbarhet
+###  Story R1 (Refaktoreringsstory): Som beställare vill jag minska den tekniska skulden och stärka systemets underhållbarhet
+Teamen väljer själv omfattning av arbetet att utföras i varje Feature, identifiera tasks, och utför dem ni prioriterar som mest kundvärda.
 
 #### Feature R1.1 – Kundbeställd minskning av teknisk skuld (Technical Debt Reduction)
 * **Syfte:** Identifiera, eliminera och dokumentera strukturella kodlukter (*Code Smells*) i källkoden för att sänka den framtida underhållskostnaden.
