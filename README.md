@@ -184,6 +184,7 @@ build/
 Ett commit-meddelande ska förklara *vad* och *varför* ändringen gjordes.
 * **Bra:** `Add Guard Clause for underage borrowers in LoanService`
 * **Dåligt:** `fix`, `ändrat lite kod`, `wip`
+* Ändring som är ogenomtänkt
 
 #### 3. Dra in `main` i din gren *före* Pull Request
 Innan du skapar eller uppdaterar en PR är det en god vana att växla till `main`, göra `git pull`, växla tillbaka till din feature branch och köra `git merge main`. 
